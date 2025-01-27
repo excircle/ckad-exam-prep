@@ -5,7 +5,7 @@ The **Application Design and Build** section of the CKAD exam focuses on the fou
 # Challenges
 
 ### **1. Define, Build, and Modify Container Images**
-- **Exercise: [Build a custom container image](https://github.com/excircle/ckad-exam-prep/blob/main/01-application-design-and-build/challenges/define-build-and-modify-container-images/writeup.md**
+- **Exercise: [Build a custom container image](https://github.com/excircle/ckad-exam-prep/blob/main/01-application-design-and-build/challenges/define-build-and-modify-container-images/writeup.md)**
   - Create a `Dockerfile` to:
     - Start with a base image (e.g., `alpine` or `python`).
     - Add application files (e.g., a simple Python or Node.js script).
