@@ -23,7 +23,7 @@ The **Application Design and Build** section of the CKAD exam focuses on the fou
 ---
 
 ### **2. Choose and Use the Right Workload Resource**
-- **Exercise: Create and deploy different Kubernetes workload resources**
+- **Exercise: [Create and deploy different Kubernetes workload resources](https://github.com/excircle/ckad-exam-prep/blob/main/01-application-design-and-build/challenges/choose-and-use-the-right-workload/writeup.md)**
   - Create a `Deployment` with 3 replicas for a web application.
   - Create a `DaemonSet` to run a logging agent on all nodes.
   - Schedule a `CronJob` to run a script every minute that writes to a log file.
